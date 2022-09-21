@@ -1,0 +1,4 @@
+openIssues
+Mean: 16.11367148597136
+Median: 4.0
+StdDev: 71.5781830916759

@@ -1,0 +1,4 @@
+totalIssues
+Mean: 81.21314262165596
+Median: 15.0
+StdDev: 382.87523798762913

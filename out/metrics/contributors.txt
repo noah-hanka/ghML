@@ -1,0 +1,4 @@
+contributors
+Mean: 11.350801881932759
+Median: 5.0
+StdDev: 29.640616049243974
