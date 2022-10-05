@@ -1,4 +1,0 @@
-stargazers
-Mean: 411.7761427246815
-Median: 50.0
-StdDev: 2032.1438781148925

@@ -1,4 +1,0 @@
-totalPullRequests
-Mean: 87.50820769944023
-Median: 15.0
-StdDev: 412.3616158961493
