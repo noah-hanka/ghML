@@ -1,0 +1,8 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/home/noah/dev/school/cse3140/lab4/venv/bin/python",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
